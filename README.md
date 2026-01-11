@@ -7,11 +7,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sabrina.agrane1@gmail.com)](mailto:sabrina.agrane1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sabrina-agrane/)
 
-<h3 align="center">Im a Computer Science Student</h3>
+<h3 align="center">Im a Cybersecurity Student</h3>
 
 - 🌱 I’m currently learning **Vulnerabilities on Containers**
 
-- 🤝 Im really active on **tryhackme** i try to never loose my streak !
+- 🤝 Im really active on **tryhackme** i try to never lose my streak !
 
 - 💬 Ask me about **Cybersecurity Architecture** Im Happy to Help! 
 
