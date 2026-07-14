@@ -1,7 +1,7 @@
 <h1 align="center">YOOOO, I'm Pinky</h1>
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="GIF" src="https://github.com/sabrina1ag/sabrina1ag/blob/main/giphy.webp" width="370" height="235" /> 
+<img align="right" alt="GIF" src="https://github.com/pinky1matcha/pinky1matcha/blob/main/giphy.webp" width="370" height="235" /> 
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sabrina.agrane1@gmail.com)](mailto:sabrina.agrane1@gmail.com)
